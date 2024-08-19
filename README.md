@@ -9,4 +9,4 @@ This repository contains the following code:
 
 We used early versions of [conseal](https://github.com/uibk-uncover/conseal) to simulate steganography, and [sealwatch](https://github.com/uibk-uncover/sealwatch) for the feature-based steganalysis experiments.
 
-Additionally, we provide the predictions for CNN-based experiments. While the paper only reports the accuracy, the predictions allow you evaluating additional metrics, such as false positive and false negative rates.
+Additionally, we provide the [predictions](./predictions) for CNN-based experiments. While the paper only reports the accuracy, the predictions allow evaluating additional metrics, such as false positive and false negative rates.
